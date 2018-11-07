@@ -10,6 +10,7 @@ The [R code](https://github.com/GraphicsPrinciples/CheatSheet) is also available
 
 This is a test
 ![another test](/assets/2018-11-06_thumbnail.png)
+again
 
 
 
