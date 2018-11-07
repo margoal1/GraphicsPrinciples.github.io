@@ -14,6 +14,6 @@ Work packages include:
 - **Standardization of common graphs** - a handful of carefully curated graphs selected to represent preapproved standard graphs for inclusion in regulated documents, and included in the Output Governance system (a repository of preapproved standard tables and listings which previously had not included figures)
 - **Question-based visualizations** - a work package to encourage a more "top down" approach to creating graphs which starts with the question of interest, followed by the selection of data and graph to best answer the question (instead of the other way around)
 
-For more information on the Graphics Workstream, check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912)
+For more information on the Graphics Workstream, check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
 
 
