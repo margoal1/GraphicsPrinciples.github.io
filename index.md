@@ -8,7 +8,7 @@ This the landing page for the [cheatsheet](https://github.com/GraphicsPrinciples
 
 The [R code](https://github.com/GraphicsPrinciples/CheatSheet) is also available for many of the examples. This can be access [here](https://github.com/GraphicsPrinciples/CheatSheet)
 
-[<img src = "/assets/2018-11-06_thumbnail.png">](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
+[![](/assets/2018-11-06_thumbnail.png)](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
 
 
 
